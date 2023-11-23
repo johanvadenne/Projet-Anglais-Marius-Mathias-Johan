@@ -1,61 +1,121 @@
-SEQUENCE: SECURITY and defense.
+# SEQUENCE: SECURITY and Defense
 
-Potential operational evolution in pest eradication through use of a self-resetting trap in Japanese IT companies
+## Potential Operational Evolution in Pest Eradication through Use of a Self-Resetting Trap in Japanese IT Companies
 
-S. Barr, C. Bond, and R. Greig Goodnature Limited, P.O. Box 9781, Oshikawa Street, Tokyo.
+**Authors:** S. Barr, C. Bond, and R. Greig  
+**Organization:** Goodnature Limited, P.O. Box 9781, Oshikawa Street, Tokyo.
 
-TEXT BI and tasks: B2/B2/CH
+**TEXT BI and Tasks:** B2/B2/CH
 
-Eradication and management of rats (Rattus rattus) is of vital importance to biosecurity in Japan. Kill trap operations have proved the ability to eradicate and control populations sufficient for the protection of native species but require intensive and continued maintenance and expense. Goodnature Limited and the Department of Conservation collaborated to develop a state-of the art self resetting trap for rats to exceed the annual performance of current trap schedules with no human intervention, lightweight, durable, computer controlled and user friendly. Development and testing was completed in June 2023 resulting in a new control tool which kills, clears and resets twelve times before requiring human intervention. This development allows entire control networks to achieve a "knockdown period' and then remain 100% available to pest predators, dramatically reducing labour required in operation set up and maintenance. It is speculated that this tool will lead to new operational strategies allowing eradication and management of rats in significantly larger areas, Companies are eager to develop and get this device avoiding cables to be gnawed. The strategy is very simple. It relies on a series of tubes running along buildings, using the old system
+### Overview
+Eradication and management of rats (*Rattus rattus*) is crucial for biosecurity in Japan. Traditional kill trap operations, while effective, require intensive maintenance. Goodnature Limited, in collaboration with the Department of Conservation, developed a state-of-the-art self-resetting rat trap. This new tool, completed in June 2023, kills, clears, and resets itself multiple times, significantly reducing labor and maintenance.
 
-of pneumatic mails. At intervals, holes are created to enable the access to future predators. Easily
+### Features
+- **Technology:** Computer-controlled, lightweight, durable, and user-friendly.
+- **Efficiency:** Capable of 12 resets before needing human intervention.
+- **Strategy:** Utilizes a system of tubes, similar to pneumatic mails, with heat sensors and remote-controlled shutters to trap rodents.
+- **Environmentally Friendly:** Replaces traditional methods, offering a quick, safe, and ecological solution.
 
-controlled by remote computers, shutters situated above, capture the rodents after the temperature has
+### Implications
+The development of this trap, known as the J-line, is expected to transform rat eradication strategies, particularly in IT companies where rats cause significant damage by gnawing computer wires.
 
-risen one degree inside the tube, thanks to heat sensors fitted inside behind each hole. Then, they
+---
 
-close over the tubes and the rodent is trapped. From then on, a fan triggers off a ball which carries the rat to a place where it is frozen. Once the process is achieved, another fan blows the ball back to its starting position and the shutters open, ready for another rodent to get in. Replacing the system of bird monitoring like in Windy Hill in 2021, This system allows a quick, safe, ecological way to preserve the environment and the work efficiency.
+### Extract from New Scientist, July 2022
 
-Rats have historically been a problem in human living environments. They are a source of diseases, What's more, they cause property damage, gnawing the computer wires, affecting the image of a company. Replacing the traditional chesse trap, this no fuss, odourless state-of-the-art system called the J-line, is an oppportunity today to turn a nightmare into a dream.
+## A-Linguistics:
+1. **Resuming Technical Vocabulary and Reminding Prepositions**  
+   [Linguistics Course Link](https://www.anglaisfacile.com/cgi2/myexam/liaison.php?liaison_cours 1147 à 1149)
 
-Extract from New Scientist, July 2022
+## B- Technical Design (Evaluated During Role Play)
+2. **Training on 3D Software**
+3. **Training on Interactive Home Web Page**
 
-A-Linguistics:
+## C- Phonology and Intonation (Evaluated in the Role Play)
+3. **Explaining a Technical Device with a 3D Diagram**
 
-1- Resuming technical vocabulary and reminding prepositions
+## D- Expression
+4. **Planning the Role Play Questions**
 
-(https://www.anglaisfacile.com/cgi2/myexam/liaison.php?liaison_cours 1147 à 1149).
+## Tasks to Perform: (6 hours + 2 hours presentation)
 
-B- Technical design (evaluated during role play)
+### TASK A:
+- **Description:** Provide a written account of the text in English (150 words). Highlight the context, pros and cons of the device, and its potential applications.
+- **Submission:** Hand it in on ED with your individual name.
 
-2- Training on 3D software.
+### TASK 2:
+- **A:** Create the J-line system using a 3D software (SketchUp, Solidworks, etc.) and insert it into a Canva slideshow. Describe how the system runs.
+- **B:** Design the homepage for the railway Japanese company J-TREC, displaying the remote J-Line rat trap. Include categories like product, technology, sustainability, company, contact, and more.
 
-3. Trainig on interactive home web page
+### TASK 3: Role Play
+- **Scenario:** You are presenting the J-Line device to the manager of the J-TREC railway company.
+- **Steps:**
+  - Greet the manager.
+  - Explain the system using the 3D projection.
+  - Discuss the pros and cons of implementing the project.
+  - Present the company's homepage you created.
+  - Negotiate agreement terms (budget, maintenance, warranty, etc.).
 
-C- Phonolgy and intonation (evaluated in the role play)
 
-3-Being able to explain a technical device with a 3D diagram.
 
-D- Expression
 
-4-Planning the role play questions.
+# version française
 
-TASKS TO PERFORM: 6 hours + 2 hours presentaion)
 
-TASKA: Give a written secount of this text in inglish, highlighting the context, the pros sand con of the device as well as its potential applications. ('150 words). Hand it in on ED with your individua name.
+# SÉQUENCE : SÉCURITÉ et Défense
 
-TASK 2: After having read the text carefully, Thanks to the technical elements given :
+## Évolution Potentielle des Opérations dans l'Éradication des Nuisibles avec l'Utilisation d'un Piège à Réarmement Automatique dans les Entreprises IT Japonaises
 
-A-Create the J-line system with a 3D software (sketch up, Solidworks of other and insert into a Canva slideshow in which the system will be explained with an accurate plan of you choice (see the plans given at the beginning of the year). You will have to describe how the system runs. (This task may be performed in groups of 3. Make sure your group includes student able to draw a 3D diagram).
+**Auteurs :** S. Barr, C. Bond, et R. Greig  
+**Organisation :** Goodnature Limited, P.O. Box 9781, Rue Oshikawa, Tokyo.
 
-B- Imagine the home page of the railway Japanese company J-TREC. They actually want t implement the remote J-Line computer controlled rat trap; you will display on the page the following categories: product/technology/sustainability/company/contact/More../
+**TEXT BI et Tâches :** B2/B2/CH
 
-TASK 3; Role play. You are in charge of displaying the revolutionary J-Line device implemented b the Jaanese Firm to the manager of the J-TREC railway company. With your group (manager developer/technician concept designer):
+### Aperçu
+L'éradication et la gestion des rats (*Rattus rattus*) sont cruciales pour la biosécurité au Japon. Les opérations traditionnelles de piégeage, bien qu'efficaces, nécessitent un entretien intensif. Goodnature Limited, en collaboration avec le Département de la Conservation, a développé un piège à rats auto-réarmable de pointe. Cet outil, achevé en juin 2023, tue, nettoie et se réarme plusieurs fois, réduisant considérablement le travail et l'entretien.
 
-Greet him
+### Caractéristiques
+- **Technologie :** Contrôlée par ordinateur, légère, durable et conviviale.
+- **Efficacité :** Capable de 12 réarmements avant intervention humaine.
+- **Stratégie :** Utilise un système de tubes, semblable aux courriers pneumatiques, avec des capteurs de chaleur et des volets commandés à distance pour piéger les rongeurs.
+- **Respectueux de l'Environnement :** Remplace les méthodes traditionnelles, offrant une solution rapide, sûre et écologique.
 
-Explain the system with the projection of the 3D sketch up or Solidworks...
+### Implications
+Le développement de ce piège, connu sous le nom de J-line, devrait transformer les stratégies d'éradication des rats, en particulier dans les entreprises informatiques où les rats causent des dégâts importants en rongeant les câbles informatiques.
 
-Questioning on pros and cons to implement the project.
+---
 
-Present the home page of the company's site you have created Coming to an agreement (Budget/maintenance/ Warranty....)
+### Extrait de New Scientist, Juillet 2022
+
+## A-Linguistique :
+1. **Résumé du Vocabulaire Technique et Rappel des Prépositions**  
+   [Lien du Cours de Linguistique](https://www.anglaisfacile.com/cgi2/myexam/liaison.php?liaison_cours 1147 à 1149)
+
+## B- Conception Technique (Évaluée lors du Jeu de Rôle)
+2. **Formation sur les Logiciels 3D**
+3. **Formation sur la Page Web Interactive à Domicile**
+
+## C- Phonologie et Intonation (Évaluée dans le Jeu de Rôle)
+3. **Expliquer un Dispositif Technique avec un Diagramme 3D**
+
+## D- Expression
+4. **Planification des Questions du Jeu de Rôle**
+
+## Tâches à Réaliser : (6 heures + 2 heures de présentation)
+
+### TÂCHE A :
+- **Description :** Fournir un compte rendu écrit du texte en anglais (150 mots). Mettre en évidence le contexte, les avantages et les inconvénients du dispositif, ainsi que ses applications potentielles.
+- **Soumission :** Remettre sur ED avec votre nom individuel.
+
+### TÂCHE 2 :
+- **A :** Créer le système J-line en utilisant un logiciel 3D (SketchUp, Solidworks, etc.) et l'insérer dans un diaporama Canva. Décrire le fonctionnement du système.
+- **B :** Concevoir la page d'accueil de l'entreprise ferroviaire japonaise J-TREC, affichant le piège à rats J-Line contrôlé à distance. Inclure des catégories telles que produit, technologie, durabilité, entreprise, contact, et plus.
+
+### TÂCHE 3 : Jeu de Rôle
+- **Scénario :** Vous présentez le dispositif J-Line au manager de l'entreprise ferroviaire J-TREC.
+- **Étapes :**
+  - Saluer le manager.
+  - Expliquer le système à l'aide de la projection 3D.
+  - Discuter des avantages et des inconvénients de la mise en œuvre du projet.
+  - Présenter la page d'accueil de l'entreprise que vous avez créée.
+  - Négocier les termes de l'accord (budget, maintenance, garantie, etc.).
