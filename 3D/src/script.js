@@ -5,17 +5,17 @@ import { DRACOLoader } from 'three/addons/loaders/DRACOLoader.js'
 
 // Scene
 const scene = new THREE.Scene();
-scene.background = new THREE.Color(0xffffff); // Blanc
+scene.background = new THREE.Color('transparent'); // Blanc
 
 // Camera
 const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 100);
 camera.position.set(5, 2, -40);
 
-
-
 // Renderer
 const renderer = new THREE.WebGLRenderer({ canvas: document.getElementById('webgl') });
 renderer.setSize(window.innerWidth, window.innerHeight);
+renderer.outputColorSpace = THREE.SRGBColorSpace; // optional with post-processing
+THREE.ColorManagement.enabled = true;
 
 const controls = new OrbitControls(camera, renderer.domElement);
 controls.enableDamping = true; // an animation loop is required when either damping or auto-rotation are enabled
@@ -38,7 +38,7 @@ let mixer;
 
 // Après le chargement du modèle dans gltfLoader.load
 
-gltfLoader.load('test_rat.glb', (gltf) => {
+gltfLoader.load('test_rat2.glb', (gltf) => {
     ratModel = gltf.scene;
     mixer = new THREE.AnimationMixer(ratModel);
 
@@ -55,6 +55,7 @@ gltfLoader.load('test_rat.glb', (gltf) => {
 
     scene.add(ratModel);
 });
+
 
 // Boutons pour contrôler l'animation
 const playButton = document.getElementById('playButton');
@@ -85,6 +86,12 @@ function resetAnimation() {
     }
 }
 
+
+const sizes = {
+    width: window.innerWidth * 0.5, // Par exemple, utilisez 50% de la largeur de la fenêtre
+    height: window.innerHeight * 0.5, // Par exemple, utilisez 50% de la hauteur de la fenêtre
+}
+
 // Lights
 const ambientLight = new THREE.AmbientLight(0xffffff, 0.5);
 scene.add(ambientLight);
@@ -100,6 +107,17 @@ function animate() {
     if (mixer) {
         mixer.update(0.01); // Ajustez le temps en fonction de la vitesse de votre animation
     }
+
+    // Set canvas size
+    scene.width = sizes.width;
+    scene.height = sizes.height;
+
+    // Update camera aspect ratio
+    camera.aspect = sizes.width / sizes.height;
+    camera.updateProjectionMatrix();
+
+    // Update renderer size
+    renderer.setSize(sizes.width, sizes.height);
 
     // Mettez à jour les contrôles de la caméra
     controls.update();
